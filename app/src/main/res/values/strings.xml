@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">QuantityMeasurementApp</string>
+
+    <string-array name="conversion_type">
+        <item>Length</item>
+        <item>Volume</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="length_parameter">
+        <item><b>Select length type</b></item>
+        <item>inch</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>feet</item>
+        <item>yard</item>
+    </string-array>
+
+    <string-array name="volume_parameter">
+        <item><b>Select volume type</b></item>
+        <item>gallon</item>
+        <item>litre</item>
+        <item>millilitre</item>
+    </string-array>
+
+    <string-array name="weight_parameter">
+        <item><b>Select weight type</b></item>
+        <item>kg</item>
+        <item>g</item>
+        <item>ton</item>
+    </string-array>
+
+    <string-array name="temperature_parameter">
+        <item><b>Select temperature type</b></item>
+        <item>fahrenheit</item>
+        <item>celsius</item>
+    </string-array>
+</resources>
