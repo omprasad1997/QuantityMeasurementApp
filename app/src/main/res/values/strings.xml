@@ -10,30 +10,30 @@
 
     <string-array name="length_parameter">
         <item><b>Select length type</b></item>
-        <item>inch</item>
-        <item>cm</item>
-        <item>m</item>
-        <item>feet</item>
-        <item>yard</item>
+        <item>Inch</item>
+        <item>Cm</item>
+        <item>M</item>
+        <item>Feet</item>
+        <item>Yard</item>
     </string-array>
 
     <string-array name="volume_parameter">
         <item><b>Select volume type</b></item>
-        <item>gallon</item>
-        <item>litre</item>
-        <item>millilitre</item>
+        <item>Gallon</item>
+        <item>Litre</item>
+        <item>Millilitre</item>
     </string-array>
 
     <string-array name="weight_parameter">
         <item><b>Select weight type</b></item>
-        <item>kg</item>
-        <item>g</item>
-        <item>ton</item>
+        <item>Kg</item>
+        <item>G</item>
+        <item>Ton</item>
     </string-array>
 
     <string-array name="temperature_parameter">
         <item><b>Select temperature type</b></item>
-        <item>fahrenheit</item>
-        <item>celsius</item>
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
     </string-array>
 </resources>
